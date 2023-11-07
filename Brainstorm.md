@@ -1,20 +1,16 @@
-# Original App Design Project - README Template
-# TripMap
+## Brainstorm ideas
+1. Travel Planner app.
+2. Budget sharing app similar to Splitwise.
+3. A word guessing app similar to Hangman.
 
-## Table of Contents
-1. Overview
-2. Product Spec
-3. Wireframes
-4. Schema
+#### Step 2.1: The Top Two
+1. Travel Planner app.
+2. Budget Sharing app.
 
+### Evaluating Budget sharing app
+Since the budget sharing app involvs complex sharing algorithma and adding users and groups. I think it will be very difficult to achieve that in these 3 weeks. So I am going with Travel Planner app.
 
-## Overview
-### Description
-TripMap is an ultimate travel companion for busy adventurers and frequent travelers. With TripMap, users can effortlessly consolidate all their flight details in one place. User-friendly interface allows users to input their flight information quickly and intuitively, giving them instant access to their upcoming trips.
-
-
-### App Evaluation
-
+#### Step 2.2: Evaluating Ideas - Travel Planner App
 Mobile:
 Travel planner app allows users to carry their itineraries, travel information, and booking details with them wherever they go. This portability is a key advantage of mobile travel planning.
 
@@ -30,45 +26,4 @@ My travel planner app doesn't just make users current trip more convenient; it e
 Scope:
 I think building an entire travel planner app in a 2 week span is challenging. I will be focusing on streamlining just the flight details, simplifying booking, and making tracking the air travel for now. In future my goal is to create a full-featured travel planner that covers all aspects of trips, from accommodations to activities, but I want to start by perfecting one component at a time.
 
-### Product Spec.
-### 1. User Stories (Required and Optional)
-#### Required Must-have Stories
-1. Login page where users can login using google firebase api.
-2. The Home page which displays all the trips of the user logged in.
-3. The Detail page which is displayed after clicking on any of the user trips.
-4. Add trip functionality which allows users to enter their flight info.
 
-#### Optional Nice-to-have Stories
-1. The users should be able to share their itinery with the friends or family.
-
-### 2. Screen Archetypes
-Login Screen
-1. Implement the login of users using google firebase api.
-
-Trips Screen
-1. Display all the trips for the particular user.
-2. Add trip button which pops a form for the users to add a new trip.
-
-Trip Detail Screen
-1. Display all the details about a particular trip.
-   
-### 3. Sprints
-[X]1. Sprint 1: Set up the project and design the app.
-2. Sprint 2: Implement the Login Screen, Add trip feature.
-3. Sprint 3: Implement Trips Screen and Trip detail screen.
-
-Wireframes
-[Add picture of your hand sketched wireframes in this section] 
-
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
-Schema
-[This section will be completed in Unit 9]
-
-Models
-[Add table of models]
-
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
