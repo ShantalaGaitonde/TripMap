@@ -56,6 +56,7 @@ Trip Detail Screen
 Sprint 1: Set up the project and design the app.
 Sprint 2: Implement the Login Screen, Add trip feature.
 Sprint 3: Implement Trips Screen and Trip detail screen.
+
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
