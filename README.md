@@ -51,7 +51,11 @@ Trips Screen
 
 Trip Detail Screen
 1. Display all the details about a particular trip.
-
+   
+### 3. Sprints
+Sprint 1: Set up the project and design the app.
+Sprint 2: Implement the Login Screen, Add trip feature.
+Sprint 3: Implement Trips Screen and Trip detail screen.
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
