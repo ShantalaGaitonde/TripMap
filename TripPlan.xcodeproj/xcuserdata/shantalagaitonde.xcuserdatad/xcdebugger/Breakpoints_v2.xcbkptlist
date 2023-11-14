@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB9FEA33-478D-456C-86BA-4D250BD48501"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50C90AAC-56A4-4E1C-81B6-DCD686A3C940"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripPlan/TripCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50C90AAC-56A4-4E1C-81B6-DCD686A3C940 - 6addea21df579a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.TripCell.awakeFromNib() -&gt; ()"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/TripCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "50C90AAC-56A4-4E1C-81B6-DCD686A3C940 - 6addea21df579d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.TripCell.awakeFromNib() -&gt; ()"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/TripCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripPlan/AddTripViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AddTripViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - affd4154387034d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 3e25cc8e860488cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 7f34fc1d0300dda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - ea338bbf6582d436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 5641d1224cb30506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TripPlan.AddTripViewController"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 18aa1235cb9cb701"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TripPlan.AddTripViewController&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - affd415438703434"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 3e25cc8e86048828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 7f34fc1d0300d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - ea338bbf6582d4d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.sourceLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 5641d1224cb305e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TripPlan.AddTripViewController"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "2285D696-EBEC-4631-83DC-B84BC3544EDA - 18aa1235cb9cb7e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TripPlan.AddTripViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TripPlan.AddTripViewController&gt;"
+                  moduleName = "TripPlan"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantalagaitonde/Documents/College/Fall2023/ios/TripPlan/TripPlan/TripPlan/AddTripViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

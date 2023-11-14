@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB7C_L-Cee5nvCZR0WezvAgNPrdyJq9RrQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1092254914331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>1E05B8D7-3E55-4E07-B532-90D13AFF37C8</string>
+	<key>PROJECT_ID</key>
+	<string>tripplan-shantala</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tripplan-shantala.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1092254914331:ios:a02920849eab228dc025be</string>
+</dict>
+</plist>
