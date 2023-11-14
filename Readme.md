@@ -54,7 +54,7 @@ Trip Detail Screen
 
 ### 3. Sprints
 [X] Sprint 1: Set up the project and design the app.
-Sprint 2: Implement the Login Screen, Add trip feature.
+[X] Sprint 2: Implement the Login Screen, Add trip feature.
 Sprint 3: Implement Trips Screen and Trip detail screen.
 
 ## Progress:
@@ -62,6 +62,7 @@ Sprint 3: Implement Trips Screen and Trip detail screen.
 2. Integrated Firestore database to store user details.
 3. Implemented SignUp page.
 4. Implemented Trip View page that displays all user trips.
+5. Implemented Add Trip functionality.
 
 ## For Next Sprint:
 1. Implement trip detail page.
