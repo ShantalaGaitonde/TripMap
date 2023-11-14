@@ -69,6 +69,9 @@ Sprint 3: Implement Trips Screen and Trip detail screen.
 2. Add more authentication to user login.
 3. Refine Trips Screen.
 
+## Video Walkthrough
+https://www.loom.com/share/e94df17afbad4099a5230f56f5b27df8
+
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
