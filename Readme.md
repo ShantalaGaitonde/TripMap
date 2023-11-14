@@ -57,6 +57,17 @@ Trip Detail Screen
 Sprint 2: Implement the Login Screen, Add trip feature.
 Sprint 3: Implement Trips Screen and Trip detail screen.
 
+## Progress:
+1. Implemented Login screen using Firebase authentication.
+2. Integrated Firestore database to store user details.
+3. Implemented SignUp page.
+4. Implemented Trip View page that displays all user trips.
+
+## For Next Sprint:
+1. Implement trip detail page.
+2. Add more authentication to user login.
+3. Refine Trips Screen.
+
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
