@@ -55,7 +55,7 @@ Trip Detail Screen
 ### 3. Sprints
 [X] Sprint 1: Set up the project and design the app.
 [X] Sprint 2: Implement the Login Screen, Add trip feature.
-Sprint 3: Implement Trips Screen and Trip detail screen.
+[X] Sprint 3: Implement Trips Screen and Trip detail screen.
 
 ## Progress:
 1. Implemented Login screen using Firebase authentication.
@@ -63,14 +63,16 @@ Sprint 3: Implement Trips Screen and Trip detail screen.
 3. Implemented SignUp page.
 4. Implemented Trip View page that displays all user trips.
 5. Implemented Add Trip functionality.
+6. Implemented trip details page.
 
 ## For Next Sprint:
-1. Implement trip detail page.
+1. Add image to the details page.
 2. Add more authentication to user login.
 3. Refine Trips Screen.
 
 ## Video Walkthrough
 https://www.loom.com/share/e94df17afbad4099a5230f56f5b27df8
+https://www.loom.com/share/b735461d1f0b436ba706a4e89c54a335
 
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
