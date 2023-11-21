@@ -39,7 +39,7 @@
                                 </buttonConfiguration>
                                 <connections>
                                     <action selector="loginButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eWX-1Y-294"/>
-                                    <segue destination="2kt-2y-dNk" kind="show" id="6n8-Cr-cl5"/>
+                                    <segue destination="2kt-2y-dNk" kind="show" id="FpZ-8L-fKC"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KKa-GT-WdH">
@@ -64,7 +64,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="941.22137404580144" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="1602" y="4"/>
         </scene>
         <!--Trips-->
         <scene sceneID="Dbe-fr-oOH">
@@ -111,6 +111,7 @@
                                         <connections>
                                             <outlet property="cityImageView" destination="Ear-5R-UR3" id="1Ud-gB-6UX"/>
                                             <outlet property="sourceLabel" destination="05i-74-yzf" id="jJ1-Z9-Mm5"/>
+                                            <segue destination="VJi-HP-LbX" kind="show" identifier="tripDetail" id="JIl-6w-OVk"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -127,7 +128,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="G9F-IG-J01" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1617.5572519083969" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="2544.2748091603053" y="3.5211267605633805"/>
         </scene>
         <!--Sign Up View Controller-->
         <scene sceneID="mbz-I1-WqR">
@@ -178,7 +179,48 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cy8-Tx-2v4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1742.7480916030534" y="702.11267605633805"/>
+            <point key="canvasLocation" x="1601" y="746"/>
+        </scene>
+        <!--Detail View Controller-->
+        <scene sceneID="8tu-tx-Zuj">
+            <objects>
+                <viewController id="VJi-HP-LbX" customClass="DetailViewController" customModule="TripPlan" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="W0Y-Ox-fn7">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZI3-Zo-0ki">
+                                <rect key="frame" x="0.0" y="103" width="393" height="183"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mur-Bh-AEE">
+                                <rect key="frame" x="66" y="446" width="261" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cbv-AK-4Am">
+                                <rect key="frame" x="66" y="355" width="261" height="49"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="rxY-qD-mDB"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="nWy-iM-KpE"/>
+                    <connections>
+                        <outlet property="cityImageView" destination="ZI3-Zo-0ki" id="B9G-WG-zfK"/>
+                        <outlet property="fromToLabel" destination="Mur-Bh-AEE" id="HME-9O-IOa"/>
+                        <outlet property="sourceDestinationLabel" destination="cbv-AK-4Am" id="OoO-Zx-Gqa"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ogg-XN-b4O" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2541.2213740458014" y="776.76056338028172"/>
         </scene>
         <!--Add Trip View Controller-->
         <scene sceneID="yJM-Po-bNl">
@@ -263,7 +305,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="o49-HP-fFW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2318.320610687023" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="3245.0381679389311" y="3.5211267605633805"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="0y5-Qu-qQG">
@@ -281,7 +323,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1QN-ii-HCx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="14.503816793893129" y="3.5211267605633805"/>
+            <point key="canvasLocation" x="610" y="4"/>
         </scene>
     </scenes>
     <resources>

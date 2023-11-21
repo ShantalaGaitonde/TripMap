@@ -17,6 +17,7 @@
 		325C000F2B01436D00ED4149 /* NukeExtensions in Frameworks */ = {isa = PBXBuildFile; productRef = 325C000E2B01436D00ED4149 /* NukeExtensions */; };
 		325C00112B01436D00ED4149 /* NukeUI in Frameworks */ = {isa = PBXBuildFile; productRef = 325C00102B01436D00ED4149 /* NukeUI */; };
 		325C00132B01436D00ED4149 /* NukeVideo in Frameworks */ = {isa = PBXBuildFile; productRef = 325C00122B01436D00ED4149 /* NukeVideo */; };
+		325C00392B0BCAAA00ED4149 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 325C00382B0BCAA900ED4149 /* DetailViewController.swift */; };
 		325CFFEB2AFD94BE00ED4149 /* Trip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 325CFFEA2AFD94BE00ED4149 /* Trip.swift */; };
 		325CFFED2AFE823C00ED4149 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 325CFFEC2AFE823C00ED4149 /* Main.storyboard */; };
 		325CFFEF2AFE995300ED4149 /* AddTripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 325CFFEE2AFE995300ED4149 /* AddTripViewController.swift */; };
@@ -67,6 +68,7 @@
 		325C00052AFFDA8A00ED4149 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		325C00072AFFDA9500ED4149 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		325C00092AFFDAAB00ED4149 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		325C00382B0BCAA900ED4149 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		325CFFEA2AFD94BE00ED4149 /* Trip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trip.swift; sourceTree = "<group>"; };
 		325CFFEC2AFE823C00ED4149 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		325CFFEE2AFE995300ED4149 /* AddTripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTripViewController.swift; sourceTree = "<group>"; };
@@ -200,6 +202,7 @@
 				32B82AAF2AFAA38C00CBDC22 /* TripManager.swift */,
 				32B82AB12AFB22CF00CBDC22 /* TripsViewController.swift */,
 				32B82AB32AFC0D7700CBDC22 /* TripCell.swift */,
+				325C00382B0BCAA900ED4149 /* DetailViewController.swift */,
 			);
 			path = TripPlan;
 			sourceTree = "<group>";
@@ -364,6 +367,7 @@
 				32B82AB42AFC0D7700CBDC22 /* TripCell.swift in Sources */,
 				325CFFEF2AFE995300ED4149 /* AddTripViewController.swift in Sources */,
 				325CFFF12AFEBDF000ED4149 /* SignUpViewController.swift in Sources */,
+				325C00392B0BCAAA00ED4149 /* DetailViewController.swift in Sources */,
 				325CFFEB2AFD94BE00ED4149 /* Trip.swift in Sources */,
 				32B82AB22AFB22CF00CBDC22 /* TripsViewController.swift in Sources */,
 			);

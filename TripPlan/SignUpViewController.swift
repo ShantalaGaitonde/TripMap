@@ -24,12 +24,23 @@ class SignUpViewController: UIViewController {
     @IBAction func signupButtonTapped(_ sender: Any) {
         if (emailTextField.text != nil && passwordTextField.text != nil) {
             
-            Auth.auth().createUser(withEmail: emailTextField.text! , password: passwordTextField.text!) { authResult, error in
+            Auth.auth().createUser(withEmail: emailTextField.text! , password: passwordTextField.text!) { [self] authResult, error in
                 if error == nil {
                     print("Successfully signed up!")
                     self.loadView()
                 } else {
-                            print("Error !!")
+                        // The sourceLabel is nil, show an alert
+                        let alertController = UIAlertController(title: "Error", message: "The email or password field is empty.", preferredStyle: .alert)
+
+                        let okAction = UIAlertAction(title: "OK", style: .default) { _ in
+                            // Handle OK button tap if needed
+                        }
+                        
+                        alertController.addAction(okAction)
+
+                        // Assuming you have a reference to your view controller to present the alert
+                        self.present(alertController, animated: true, completion: nil)
+                        
                     }
             }
         }
